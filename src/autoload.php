@@ -4,9 +4,11 @@
  *@date: 2025-03-01 
  *
  */
+require_once 'app/core/database.php'; 
 require_once 'src/controller.php';
 require_once 'src/view.php';
 require_once 'src/model.php';
+require_once 'app/models/product_model.php';
 require_once("app/controllers/errors.php");
 
 class Autoload {

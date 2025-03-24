@@ -45,7 +45,7 @@
                 echo '<div class="alert alert-danger text-center">'.htmlspecialchars($_GET['error']).'</div>';
             }
             ?>
-            <form action="login/authenticate" method="POST">
+            <form action="login" method="POST">
                 <div class="mb-3">
                     <label class="form-label"><i class="fas fa-envelope"></i> Email</label>
                     <input type="email" name="email" class="form-control" required>

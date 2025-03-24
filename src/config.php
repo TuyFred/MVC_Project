@@ -16,5 +16,3 @@ if(!defined("DEFAULT_CONTROLLER"))
     define("BASE_URL", "http://172.27.103.153/ecommerce_final/");
 
 ?>
-
-........................

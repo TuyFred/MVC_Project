@@ -100,7 +100,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container">
-            <a class="navbar-brand" href="#">eShop</a>
+            <a class="navbar-brand" href="#">CyberShop</a>
             <form class="search-bar d-none d-lg-block">
                 <input type="text" placeholder="Search products...">
             </form>
@@ -118,7 +118,7 @@
         <div class="hero-overlay"></div>
         <img id="heroImage" src="images/12.jpg" alt="Hero Image">
         <div class="hero-content">
-            <h1>Welcome to eShop</h1>
+            <h1>Welcome to CyberShop</h1>
             <p>Get the Best Deals Today!</p>
             <a href="#" class="btn btn-custom">Shop Now</a>
         </div>
@@ -195,3 +195,4 @@
     <script src="images/13.jpg"></script>
 </body>
 </html> 
+
